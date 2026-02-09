@@ -62,8 +62,4 @@ Jawaharlal Nehru Technological University, Kakinada
 - **LinkedIn:** [linkedin.com/in/amrutha-garimella-1624a520b](https://www.linkedin.com/in/amrutha-garimella-1624a520b/)  
 - **Phone:** +91 7993841634
 
----
-
-## 📌 Note
-This repository/portfolio showcases my analytical approach, problem-solving mindset, and ability to translate data into meaningful insights. I am actively seeking opportunities in **Data Analytics, Marketing Analytics, and Business Analytics** roles.
 
