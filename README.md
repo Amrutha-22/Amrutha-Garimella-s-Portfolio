@@ -1,7 +1,7 @@
 # Amrutha Garimella – Data Analyst Portfolio
 
 ## 👋 Profile Summary
-I am a Data Analyst with hands-on experience in **SQL, Python, Power BI, and Excel**, focused on transforming raw data into accurate, actionable business insights. I have worked on exploratory data analysis, KPI validation, dashboard development, and data quality checks to support data-driven decision-making.
+I am a Data Analyst with hands-on experience in **SQL, Python, Power BI, Java, and Excel**, focused on transforming raw data into accurate, actionable business insights. I have worked on exploratory data analysis, KPI validation, dashboard development, and data quality checks to support data-driven decision-making.
 
 My background includes professional experience at Mu Sigma, where I collaborated with cross-functional teams to translate business requirements into clear metrics and reporting solutions.
 
@@ -9,11 +9,10 @@ My background includes professional experience at Mu Sigma, where I collaborated
 
 ## 🧠 Core Skills
 
-- **Programming:** Python, SQL (MySQL)
+- **Programming:** Python, SQL (MySQL), Java
 - **Libraries:** Pandas, Matplotlib
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Validation, KPI Analysis
 - **Visualization & Reporting:** Power BI, Microsoft Excel
-- **Other:** ML Basics, LLM Basics, Documentation & Reporting
 
 ---
 
@@ -36,7 +35,7 @@ My background includes professional experience at Mu Sigma, where I collaborated
 ### 1️⃣ E-Commerce Analytical System (SQL + Python)
 - Designed a relational SQL database for an e-commerce application (Users, Orders, Products, Payments).  
 - Analyzed key business metrics such as revenue, order volume, profitability, and funnel performance.  
-- Used Python (Pandas, Matplotlib) to generate insights including top revenue-generating cities and monthly profit trends.
+- Used Python (Pandas, Matplotlib) to generate insights, including top revenue-generating cities and monthly profit trends.
 
 ---
 
