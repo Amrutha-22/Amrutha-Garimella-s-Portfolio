@@ -1,64 +1,88 @@
-# Amrutha Garimella – Data Analyst Portfolio
+# 👩‍💻 Amrutha Garimella – Data Analyst Portfolio
 
-## 👋 Profile Summary
-I am a Data Analyst with hands-on experience in **SQL, Python, Power BI, Java, and Excel**, focused on transforming raw data into accurate, actionable business insights. I have worked on exploratory data analysis, KPI validation, dashboard development, and data quality checks to support data-driven decision-making.
-
-My background includes professional experience at Mu Sigma, where I collaborated with cross-functional teams to translate business requirements into clear metrics and reporting solutions.
+📞 +91 7993841634  
+📧 amruthagarimella22@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/amrutha-garimella-1624a520b/  
 
 ---
 
-## 🧠 Core Skills
+## 🧑‍💼 Professional Summary
 
-- **Programming:** Python, SQL (MySQL), Java
-- **Libraries:** Pandas, Matplotlib
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Validation, KPI Analysis
-- **Visualization & Reporting:** Power BI, Microsoft Excel
+Data Analyst with experience in **SQL, Python, Power BI, and Excel**, specializing in KPI reporting, dashboard development, and performance analytics. Proven ability to analyse large datasets, monitor business performance trends, and translate complex data into actionable insights for stakeholders. Experienced in building reliable reporting solutions that support data-driven decision-making and operational efficiency.
 
 ---
 
 ## 💼 Professional Experience
 
-### Trainee Decision Scientist (Data Analytics)  
-**Mu Sigma Inc., Bengaluru | July 2023 – April 2024**
+### **Trainee Decision Scientist (Data Analytics)**  
+**Mu Sigma Inc., Bengaluru**  
+📅 July 2023 – April 2024  
 
-- Performed exploratory data analysis using Python and SQL to identify trends, patterns, and data quality issues.  
-- Developed complex SQL queries using joins, window functions, CTEs, and aggregations for KPI-level analysis.  
-- Built and maintained interactive dashboards and MIS reports in Power BI using DAX and Power Query.  
-- Automated Excel-based reports to improve efficiency and reduce manual errors.  
-- Ensured data accuracy and consistency through validation checks and documentation.  
-- Worked closely with stakeholders to convert business questions into actionable insights.
+- Performed exploratory data analysis using **Python (Pandas, Matplotlib, NumPy)** and SQL to identify trends, patterns, and data quality issues across large datasets.  
+- Developed complex SQL queries (**joins, window functions, CTEs, aggregations**) to support KPI reporting and performance analysis.  
+- Built and maintained interactive dashboards in **Power BI** using DAX, Power Query, and Power Pivot.  
+- Automated reporting workflows using **Excel (Pivot Tables, LOOKUP, advanced functions)**.  
+- Conducted data validation checks to ensure accuracy and reliability of business metrics.  
+- Collaborated with cross-functional teams to translate business requirements into reports.
 
 ---
 
 ## 📊 Projects
 
-### 1️⃣ E-Commerce Analytical System (SQL + Python)
-- Designed a relational SQL database for an e-commerce application (Users, Orders, Products, Payments).  
-- Analyzed key business metrics such as revenue, order volume, profitability, and funnel performance.  
-- Used Python (Pandas, Matplotlib) to generate insights, including top revenue-generating cities and monthly profit trends.
+### 🎵 Spotify Music Data Analysis (SQL)
+- Designed a relational database for Spotify data with entities like artists, tracks, and album types.  
+- Developed complex SQL queries to derive insights.
 
 ---
 
-### 2️⃣ Pizza Sales Analysis (Power BI + SQL)
-- Built SQL queries to calculate KPIs such as total revenue, average order value, total orders, and pizzas sold.  
-- Developed interactive Power BI dashboards showing daily and monthly trends, category-wise performance, and top/bottom products.  
-- Enabled better business understanding by identifying revenue drivers and best-performing products.
+### 📈 Enhancing Net Promoter Score (Python)
+- Implemented Python functions for data insertion, cleaning, querying, and analysis.  
+- Performed sales analysis using **Pandas and NumPy**.  
+- Created visualizations using **Matplotlib**.
+
+---
+
+### 🍕 Pizza Sales Analysis (Power BI + SQL)
+- Designed SQL queries to calculate KPIs such as revenue, AOV, total orders, and sales metrics.  
+- Built interactive Power BI dashboards with sales trends and performance insights.  
+- Identified top-performing products and key revenue drivers.
+
+---
+
+## 🛠 Skills Summary
+
+### **Programming**
+- Python  
+- SQL (MySQL)
+
+### **Libraries**
+- Pandas  
+- Matplotlib  
+- NumPy  
+
+### **Data Analysis**
+- Exploratory Data Analysis (EDA)  
+- Data Validation  
+
+### **Dashboards & Tools**
+- Microsoft Power BI  
+- Microsoft Excel (MS Office)
+
+### **Other Skills**
+- Communication (Written & Verbal)
 
 ---
 
 ## 🎓 Education
 
-**B. Tech in Electronics and Communication Engineering**  
+**B.Tech – Electronics and Communication Engineering**  
 Jawaharlal Nehru Technological University, Kakinada  
-*Aug 2019 – May 2023*  
-**CGPA:** 8.01
+📅 Aug 2019 – May 2023  
+- CGPA: **8.01**
 
 ---
 
-## 📫 Contact
 
-- **Email:** amruthagarimella22@gmail.com  
-- **LinkedIn:** [linkedin.com/in/amrutha-garimella-1624a520b](https://www.linkedin.com/in/amrutha-garimella-1624a520b/)  
-- **Phone:** +91 7993841634
+
 
 
