@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 Professional Summary
 
-Data Analyst with experience in **SQL, Python, Power BI, and Excel**, specializing in KPI reporting, dashboard development, and performance analytics. Proven ability to analyse large datasets, monitor business performance trends, and translate complex data into actionable insights for stakeholders. Experienced in building reliable reporting solutions that support data-driven decision-making and operational efficiency.
+Data Analyst with a year of experience at Mu Sigma, skilled in SQL, Python, and Excel for data analysis, data cleaning, and exploratory data analysis. Experienced in analyzing data sets, identifying trends, and translating data into actionable insights to support data-driven decision-making.
 
 ---
 
@@ -25,27 +25,20 @@ Data Analyst with experience in **SQL, Python, Power BI, and Excel**, specializi
 - Conducted data validation checks to ensure accuracy and reliability of business metrics.  
 - Collaborated with cross-functional teams to translate business requirements into reports.
 
+### **Educational Externship - Python programming**  
+**Mu Sigma Inc., Bengaluru**
+- Solved **Python programming** challenges by applying logical reasoning, analytical thinking, and structured problem-solving techniques.
+- Developed and implemented **Python-based** solutions to coding problems, strengthening programming fundamentals and code efficiency.
 ---
 
 ## 📊 Projects
 
-### 🎵 Spotify Music Data Analysis (SQL)
-- Designed a relational database for Spotify data with entities like artists, tracks, and album types.  
-- Developed complex SQL queries to derive insights.
-
----
-
-### 📈 Enhancing Net Promoter Score (Python)
-- Implemented Python functions for data insertion, cleaning, querying, and analysis.  
-- Performed sales analysis using **Pandas and NumPy**.  
-- Created visualizations using **Matplotlib**.
-
----
-
-### 🍕 Pizza Sales Analysis (Power BI + SQL)
-- Designed SQL queries to calculate KPIs such as revenue, AOV, total orders, and sales metrics.  
-- Built interactive Power BI dashboards with sales trends and performance insights.  
-- Identified top-performing products and key revenue drivers.
+### 📈 Crisis Analysis in Education Lending | Portfolio Risk Analysis (SQL):
+- Worked on this freelance project recently after my layoff to stay engaged with real-world data analytics and strengthen my practical SQL and risk analysis skills.
+- Analyzed an education loan portfolio of 15,000+ student accounts using SQL in Databricks to investigate a ₹12 Cr loan disbursement discrepancy and rising default rates.
+- Assessed portfolio risk and identified ₹24.24 Cr in at-risk exposure from defaulted and overdue loans, with default rates exceeding industry warning thresholds.
+- Conducted borrower, geographic, and institutional risk analysis, identifying low-income and low-credit-score borrowers, high-risk regions, and partner institutions driving portfolio losses.
+- Performed trend and cohort analysis to identify the onset of portfolio deterioration and delivered data-driven recommendations for underwriting, collections, and risk mitigation strategies. 
 
 ---
 
@@ -65,11 +58,10 @@ Data Analyst with experience in **SQL, Python, Power BI, and Excel**, specializi
 - Data Validation  
 
 ### **Dashboards & Tools**
-- Microsoft Power BI  
 - Microsoft Excel (MS Office)
 
-### **Other Skills**
-- Communication (Written & Verbal)
+### **Data Platforms**
+- Databricks
 
 ---
 
