@@ -25,13 +25,6 @@ Data Analyst with a year of experience at Mu Sigma, skilled in SQL, Python, and 
 - Conducted data validation checks to ensure accuracy and reliability of business metrics.  
 - Collaborated with cross-functional teams to translate business requirements into reports.
 
-### **Educational Externship - Python programming**  
-**Mu Sigma Inc., Bengaluru**
-📅 May 2023 - June 2023
-
-- Solved **Python programming** challenges by applying logical reasoning, analytical thinking, and structured problem-solving techniques.
-- Developed and implemented **Python-based** solutions to coding problems, strengthening programming fundamentals and code efficiency.
----
 
 ## 📊 Projects
 
